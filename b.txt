@@ -1,1 +1,1 @@
-b master
+merged b from master and b from b1
